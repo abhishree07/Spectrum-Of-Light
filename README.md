@@ -1,7 +1,17 @@
 # Spectrum-Of-Light 
 ASD prediction/screening tool to help detect autism using facial analysis
 
+## 🖥️ Demo
+
 https://spectrum-of-light.vercel.app/
+
+## ⌨️ Guide To Get Started
+
+**Installation**
+$ git clone https://github.com/abhishree07/Spectrum-Of-Light.git
+$ npm install
+**Run**
+$ npm start or $ npm run start
 
 ## 💡 Inspiration
 
@@ -15,6 +25,7 @@ Spectrum of Light takes in a child’s image as an input from your local storage
 ## ⚙️ How I built it
 
 * React.js Framework
+* Tensorflow.js
 * ML Model : Teachable Machine
 * Dataset : Kaggle
 
