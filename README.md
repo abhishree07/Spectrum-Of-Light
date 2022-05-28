@@ -7,11 +7,15 @@ https://spectrum-of-light.vercel.app/
 
 ## ⌨️ Guide To Get Started
 
-**Installation**
+**Installation**  
+
 $ git clone https://github.com/abhishree07/Spectrum-Of-Light.git
+  
 $ npm install
+  
 **Run**
-$ npm start or $ npm run start
+    
+$ npm start 
 
 ## 💡 Inspiration
 
