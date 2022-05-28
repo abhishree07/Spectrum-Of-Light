@@ -1,4 +1,6 @@
-# Spectrum-Of-Light
+# Spectrum-Of-Light 
+ASD prediction/screening tool to help detect autism using facial analysis
+
 https://spectrum-of-light.vercel.app/
 
 ## 💡 Inspiration
