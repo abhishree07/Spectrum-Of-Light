@@ -9,7 +9,7 @@ export default function Home() {
     <main className={styles.heroContainer}>
       <Logo className={styles.heroLogo} />
       <section className={styles.hero}>
-      <h1>What does Autism look like on the face ? </h1>
+      <h1>ASD Prediction Tool</h1>
         <p>
         There is no known biological marker for autism. That means that no blood or genetic test can diagnose the disorder. 
         Instead, clinicians rely on observation, medical histories, and questionnaires to determine whether an individual has autism. 
