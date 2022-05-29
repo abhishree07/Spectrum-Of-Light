@@ -40,7 +40,7 @@ The research phase mainly involved studying about autism and it’s current diag
 ## 🧠 Challenges I ran into
 
 The whole journey from research phase to building the prototype was indeed a challenging journey and was an amalgamation of learning things, implementing them and then backtracking to find a better solution to make things work out. 
-* Due to lack of biological markers on Autism diagnosis and ongoing research on facial analysis on Autistic kids, there was limitation of resources and a lack of well developed dataset to help in the refining of the ML model. 
+* Due to lack of biological markers on Autism diagnosis and ongoing research on facial analysis on Autistic kids, there was limitation of resources and a lack of well developed dataset to help in the refining of the ML model (1 public dataset available on internet)
 * Working with frameworks like react for the first time was challenging
 * Difficulty in connecting client side front end (react) with the ML model to add functionality to prototype. 
 
