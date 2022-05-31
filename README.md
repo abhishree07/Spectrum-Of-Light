@@ -4,6 +4,7 @@ ASD prediction/screening tool to help detect autism using facial analysis
 ## 🖥️ Demo
 
 https://spectrum-of-light.vercel.app/
+A folder test images contains sample images for ease to try out the prototype yourself. You can also manually download images from the internet to try it out. 
 
 ## ⌨️ Guide To Get Started
 
